@@ -10,3 +10,7 @@ Just include and have fun!
 ## Example
 
 Look at `primes_10000.txt`.
+
+## Inspiration!
+
+[Primes and Primitive Sets-Numberphile](https://www.youtube.com/watch?v=33YSWaR3kAQ)
